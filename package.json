@@ -1,0 +1,15 @@
+{
+  "name": "CrawlerWeb",
+  "version": "0.0.0",
+  "description": "CrawlerWeb",
+  "main": "app.js",
+  "author": {
+    "name": "Johannes",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
